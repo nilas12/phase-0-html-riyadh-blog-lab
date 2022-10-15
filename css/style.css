@@ -15,7 +15,7 @@ body {
 
 .wrapper {
   margin: 0 auto;
-  width: 60%;
+  width: 100%;
   padding-bottom: 40px;
 }
 
@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #ff5;
 }
 
 h1 {
@@ -72,7 +72,7 @@ a:hover {
 
 @media only screen and (max-width: 784px) {
   body {
-    font-size: 120%;
+    font-size: 220%;
   }
   h1 {
     font-size: 2.5em;
@@ -81,6 +81,6 @@ a:hover {
     font-size: 1em;
   }
   .wrapper {
-    width: 95%;
+    width: 100%;
   }
 }
